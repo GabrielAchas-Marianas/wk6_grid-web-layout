@@ -1,0 +1,26 @@
+html {
+    padding: 0px;
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    color: white;
+}
+div#content{
+    display: grid;
+}
+div#item1 {
+    background-color: rgb(97, 126, 184);
+    padding: 20px;
+}
+div#item2 {
+    background-color: rgb(97, 126, 184);
+    padding: 20px;
+}
+div#item3 {
+    background-color: rgb(97, 126, 184);
+    padding: 20px;
+}
+div#item4 {
+    background-color: rgb(97, 126, 184);
+    padding: 20px;
+}
